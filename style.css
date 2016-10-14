@@ -1,0 +1,15 @@
+html
+  {
+    background: url(http://i.imgur.com/TBZry7w.gif) no-repeat center fixed;
+    background-size: cover;
+  }
+
+body
+  {
+    background: transparent;
+  }
+
+p, h1, h2, ul
+  {
+    color: black;
+  }
