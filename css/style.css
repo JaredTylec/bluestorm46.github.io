@@ -1,6 +1,5 @@
 html {
-  background: url("assets/TBZry7w.gif") no-repeat center fixed;
-  //background: url("assets/iI0yD9K.gif") no-repeat center fixed;
+  background: url("../assets/TBZry7w.gif") no-repeat center fixed;
   background-size: cover;
 }
 
@@ -10,11 +9,11 @@ body {
 
 @font-face {
 	font-family: Helvetica1;
-	src: url('assets/HelveticaNeueLTStd-UltLt.otf');
+	src: url('../assets/HelveticaNeueLTStd-UltLt.otf');
 }
 @font-face {
 	font-family: Helvetica2;
-	src: url("assets/HelveticaNeueLTStd-UltLtCn.otf");
+	src: url("../assets/HelveticaNeueLTStd-UltLtCn.otf");
 }
 
 #avatar {
